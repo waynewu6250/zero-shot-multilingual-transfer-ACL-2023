@@ -1,0 +1,15 @@
+__pycache__/
+__MACOSX/
+scripts/
+pretrain/train_discrim.py
+pretrain/train_pplm.py
+model/vaet5.py
+raw_dataset
+experiments
+adapter-transformers
+requirements_backup.txt
+run_pplm.py
+test.py
+README_meta.md
+test.ipynb
+test_local_in_gt.sh
